@@ -3,6 +3,8 @@ import { useState } from "react";
 import perfilMasculino from "../../assets/img/perfil-m.png";
 import perfilFeminino from "../../assets/img/perfil-f.png";
 
+import styles from './styles.module.css'
+
 export const Form = (props) => {
 
 

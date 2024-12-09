@@ -1,0 +1,11 @@
+form {
+    margin: 30px auto;
+}
+
+form>div{
+    margin: 15px 0px;
+}
+
+input[type="radio"]{
+    margin-left: 10px;
+}
